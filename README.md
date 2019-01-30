@@ -28,7 +28,7 @@ Another piece of this project is building a universal station ID system. Please 
 
 We are seeking input on what types of metadata the community will find most useful to include in this data format - and ultimately what we will seek to make accessible from data source providers via the metadata editor. While not all metadata proposed to be included in this initial format will necessarily be able to be included for a variety of reasons, from general availability of the information to logistical constraints, it will still be informative both for the short term of this project and in the longer term for others' benefits to get input from as broad a swath of the OpenAQ Community as possible.
 
-### **If you are interested in contributing comments on what types of metadata you would find most useful to be included in this data format, please make an "Issue" in this repo.** 
+### **If you are interested in contributing comments on what types of metadata you would find most useful to be included in this data format, please make an "Issue" in this repo. You can read more [here](https://github.com/openaq/project-metadata-format/issues/2#issue-404989177) on how to do this.** 
 
 This will require that you have a GitHub Account. If you prefer not to use GitHub, please send your input to info@openaq.org, and we will make an issue on your behalf, including your name and affiliation, as available and unless otherwise instructed to not do so. If you are interested in providing input on another piece of this project on building a universal station ID system, please see [this related GitHub repo](https://github.com/openaq/project-universal-stationID) for more information.
 
