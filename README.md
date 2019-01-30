@@ -31,13 +31,13 @@ We are seeking input on what types of metadata the community will find most usef
 
 ### **If you are interested in contributing comments on what types of metadata you would find most useful to be included in this data format, please make an "Issue" in this repo.** 
 
-This will require you have a GitHub Account. If you prefer not to use GitHub, please send your input to info@openaq.org, and we will make an issue on your behalf, including your name and affiliation, as available and unless otherwise instructed to not do so. If you are interested in providing input on another piece of this project on building a universal station ID system, please see [this related GitHub repo](https://github.com/openaq/project-universal-stationID) for more information.
+This will require that you have a GitHub Account. If you prefer not to use GitHub, please send your input to info@openaq.org, and we will make an issue on your behalf, including your name and affiliation, as available and unless otherwise instructed to not do so. If you are interested in providing input on another piece of this project on building a universal station ID system, please see [this related GitHub repo](https://github.com/openaq/project-universal-stationID) for more information.
 
 
 ## 4. Sponsors and Partners in this Work
 
 This work is sponsored by the IntelliAQ Team at [Forschungszentrum Jülich GmbH](http://www.fz-juelich.de/portal/DE/Home/home_node.html) through a grant from the European Research Council: ERC-2017-ADG #787576. [Development Seed](https://developmentseed.org/) is constructing the metadata editor. As always, the larger OpenAQ Community is also providing key input to shape the project in the ways that best support their diverse and impactful air inequality works.
 
-For reference, other sponsors of OpenAQ are listed here.
+For reference, other sponsors of OpenAQ are listed [here](https://openaq.org/#/about).
 
 
