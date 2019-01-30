@@ -1,4 +1,3 @@
-WIP
 
 # project-metadata-format
 This repo houses project discussions for building a metadata format for the metadata editor.
@@ -7,13 +6,13 @@ This repo houses project discussions for building a metadata format for the meta
 
 [OpenAQ](https://openaq.org) aggregates air quality data from disparate governmental and research sources across the world and harmonizes them into one consistent [data format](https://github.com/openaq/openaq-data-format). The metadata that is readily and commonly available across all of the disparate data sources are limited to a few parameters (See [OpenAQ's data format](https://github.com/openaq/openaq-data-format) to view the minimum data and metadata requirements for the platform, which are also consistent with the most commonly readily available metadata provided by sources). 
 
-Consequently, OpenAQ currently has no practical way of gathering and sharing information on additional valuable metadata, such as instrument types, calibration procedures, or other relevant information about measurements taken at a given station location. Additionally, there is no current consistent way in which various features such as "station environment" (e.g. the area immediately surrounding an air quality monitoring station) are characterized across disparate source sites. Lastly, even at source locations where abundant metadata are provided, it is often the case that either the data are not readily available in a programmatic (i.e. computer-readable) format or, b) in identical, harmonized formats with other data sources.
+Consequently, OpenAQ currently has no practical way of gathering and sharing information on additional valuable metadata, such as instrument types, calibration procedures, or other relevant information about measurements taken at a given station location. Additionally, there is no current consistent way in the platform in which various features such as "station environment" (e.g. the area immediately surrounding an air quality monitoring station) are characterized across disparate source sites. Lastly, even at source locations where abundant metadata are provided at the source, it is often the case that either the data are not readily available in a programmatic (i.e. computer-readable) format or, b) in identical, harmonized formats with other data sources.
 
 Feedback from the OpenAQ Community has made clear that for many impactful uses of these open air quality data, it is often useful or even necessary to have additional metadata and systems of classifying various station-level features. 
 
 Fortunately, many data providers are willing to share metadata, while other forms of metadata can potentially even be contributed by observations from the general public (e.g. information about the immediate surroundings of an air quality monitoring station). 
 
-The gap currently is having a systematic, harmonized way to both collect and programmatically share these metadata.
+The gap currently is having a systematic, harmonized way to both collect and programmatically share these metadata. This project seeks to address this gap.
 
 
 ## 2. Project Purpose and Description
