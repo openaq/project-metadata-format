@@ -9,7 +9,11 @@ This repo houses project discussions for building a metadata format for the meta
 
 Consequently, OpenAQ currently has no practical way of gathering and sharing information on additional valuable metadata, such as instrument types, calibration procedures, or other relevant information about measurements taken at a given station location. Additionally, there is no current consistent way in which various features such as "station environment" (e.g. the area immediately surrounding an air quality monitoring station) are characterized across disparate source sites. Lastly, even at source locations where abundant metadata are provided, it is often the case that either the data are not readily available in a programmatic (i.e. computer-readable) format or, b) in identical, harmonized formats with other data sources.
 
-Feedback from the OpenAQ Community has made clear that for many impactful uses of these open air quality data, it is often useful or even necessary to have additional metadata and systems of classifying various station-level features. Fortunately, many data providers are willing to share metadata, while other forms of metadata can potentially even be contributed by observations from the general public (e.g. information about the immediate surroundings of an air quality monitoring station). The gap currently is having a systematic, harmonized way to both collect and programmatically share these metadata.
+Feedback from the OpenAQ Community has made clear that for many impactful uses of these open air quality data, it is often useful or even necessary to have additional metadata and systems of classifying various station-level features. 
+
+Fortunately, many data providers are willing to share metadata, while other forms of metadata can potentially even be contributed by observations from the general public (e.g. information about the immediate surroundings of an air quality monitoring station). 
+
+The gap currently is having a systematic, harmonized way to both collect and programmatically share these metadata.
 
 
 ## 2. Project Purpose and Description
