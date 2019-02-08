@@ -2,7 +2,7 @@
 # project-metadata-format
 This repo houses project discussions for building a metadata format for the metadata editor. 
 
-*Comments at any time are welcome, but consideration of incorporation into this project, please provide input by **February 15, 2019***.
+*Comments at any time are welcome, but for consideration of incorporation into this project, please provide input by **February 15, 2019***.
 
 ## 1. Background on the Problem This Project Addresses
 
